@@ -1,0 +1,2 @@
+# FashionEase
+Fashion Resource Management
