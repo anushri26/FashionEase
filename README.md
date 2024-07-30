@@ -3,8 +3,8 @@ Fashion Resource Management
 FashionEase - Fashion Supply and Resource Management
 FashionEase is an application designed to streamline supply and resource management in the fashion industry. This application allows suppliers, manufacturers, and designers to manage their materials, designs, and bulk orders efficiently.
 
-Features
-Supplier Page
+##Features
+###Supplier Page
  View Materials: Display all available materials.
  Add Material: Add new materials to the database.
  Update Material: Update the price of existing materials.
